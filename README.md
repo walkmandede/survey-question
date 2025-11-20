@@ -122,31 +122,19 @@ flutter build web --release --base-href "/survey-question/"
 git subtree push --prefix build/web origin gh-pages
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Author
+## Author
 
-**walkmandede**
+**Eddie**
 
 - GitHub: [@walkmandede](https://github.com/walkmandede)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with [Flutter](https://flutter.dev)
 - Hosted on [GitHub Pages](https://pages.github.com)
 
 ---
-
-⭐️ If you find this project useful, please consider giving it a star!
